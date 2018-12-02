@@ -1,0 +1,23 @@
+{
+  "name": "kakakucom-scraping-client",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel serve src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kaminchu/kakakucom-scraping-client.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaminchu/kakakucom-scraping-client/issues"
+  },
+  "homepage": "https://github.com/kaminchu/kakakucom-scraping-client#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.10.3",
+    "typescript": "^3.2.1"
+  }
+}
